@@ -1,6 +1,8 @@
 # PBreg
 Passing-Bablok regression Use PBreg (MethComp) With (In) R Software
 
+https://www.youtube.com/watch?v=stxtJqYh6Ws
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
